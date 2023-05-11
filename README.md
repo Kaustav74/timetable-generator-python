@@ -1,1 +1,1 @@
-# timetable-generator-python
+#timetable-generator
